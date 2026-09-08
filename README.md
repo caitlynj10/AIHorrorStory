@@ -1,1 +1,2 @@
 # AIHorrorStory
+When I studied abroad at King's College London, I took _Digital Games and Gaming Culture_. Our final project for this class was to create a game in **Twine** that commented on a major issue in the world. At the time I took this class, everything about AI was so unknown that it was scary, so I decided to create a horror walkthrough game that poked fun at the then unknown dangers of AI. 
